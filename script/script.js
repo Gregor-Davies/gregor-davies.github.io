@@ -25,12 +25,12 @@ const Config = {
             ]
         ],
         [
-            "programming",
+            "Programming",
             [
                 ["Github", "https://github.com/"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["Sourcebin", "https://sourceb.in"],
+                ["Ars-Technica", "https://arstechnica.com/"],
+                ["Discord.js Docs", "https://discord.js.org/#/"]
             ]
         ]
     ]
