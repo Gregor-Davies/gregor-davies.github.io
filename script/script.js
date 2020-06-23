@@ -25,9 +25,9 @@ const Config = {
             ]
         ],
         [
-            "site",
+            "programming",
             [
-                ["link", "https://www.example.com"],
+                ["Github", "https://github.com/"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"]
