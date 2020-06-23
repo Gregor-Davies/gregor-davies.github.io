@@ -17,11 +17,11 @@ const Config = {
             ]
         ],
         [
-            "site",
+            "Social",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["Reddit", "https://www.reddit.com/"],
+                ["Youtube", "https://www.youtube.com/"],
+                ["Instagram", "https://instagram.com/"]
             ]
         ],
         [
@@ -30,7 +30,7 @@ const Config = {
                 ["Github", "https://github.com/"],
                 ["Sourcebin", "https://sourceb.in"],
                 ["Ars-Technica", "https://arstechnica.com/"],
-                ["Discord.js Docs", "https://discord.js.org/#/"]
+                ["Codepen", "https://codepen.io/"]
             ]
         ]
     ]
