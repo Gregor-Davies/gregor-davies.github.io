@@ -3,17 +3,17 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "site",
+            "My Websites",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["imatotal.monster", "https://imatotal.monster/"],
+                ["Fastsrv.io", "https://fastsrv.io/"]
             ]
         ],
         [
-            "site",
+            "Important",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["Gmail", "https://mail.google.com/mail/u/0/#inbox"],
+                ["Website Hosting", "https://4it.bz/"]
             ]
         ],
         [
