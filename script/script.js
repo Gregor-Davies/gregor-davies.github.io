@@ -29,12 +29,19 @@ const Config = {
             [
                 ["Github", "https://github.com/"],
                 ["Sourcebin", "https://sourceb.in"],
-                ["Ars-Technica", "https://arstechnica.com/"],
                 ["Codepen", "https://codepen.io/"]
             ]
         ]
-    ]
-}
+        [
+            "News",
+            [
+                ["The Register", "https://www.theregister.com/"],
+                ["Ars-Technica", "https://arstechnica.com/"]
+    
+            ]
+
+       ]
+      }
 
 const Main = (() => {
     const list = document.getElementById("list");
