@@ -37,7 +37,7 @@ const Config = {
             [
                 ["The Register", "https://www.theregister.com/"],
                 ["Ars-Technica", "https://arstechnica.com/"]
-    
+                ["Ars-Technica", "https://arstechnica.com/"]
             ]
 
        ]
