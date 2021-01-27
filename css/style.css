@@ -10,38 +10,6 @@
 @import url('../css/todolist-style.css');
 @import url('../css/weather-style.css');
 
-/* Light theme */
-:root {
-	--roboto: 'Roboto', sans-serif;
-	--noto-sans: 'Noto Sans', sans-serif;
-	--open-sans: 'Open Sans', sans-serif;
-	--roboto-slab: 'Roboto Slab', serif;
-	--font-awesome: 'Font Awesome 5 Free';
-
-	--global-font: var(--open-sans);
-
-	--background: #fff;
-	--foreground: #7a8c70;
-	--header: #5C6657;
-	--card-bg: #c1ecac;
-
-	--weather-fg: #C5CAE9;
-	--weather-bg: #3c4b96;
-	--weather-icon: #E8EAF6;
-	--weather-temp: #C5CAE9;
-	--weather-description: #9FA8DA;
-
-	--todo-bg: #f2e69d;
-	--todo-fg: #807a53;
-	--todo-hover: #4d4932;
-	--todo-input: #b3aa74;
-	--todo-done: #ccc085;
-
-	--search: #a6bf99;
-
-	--card-shadow-color: rgba(0, 0, 0, 0.35);
-}
-
 /* Dark theme */
 [theme="dark"] {
 	--background: #101112;
