@@ -32,15 +32,6 @@ const Config = {
                 ["Codepen", "https://codepen.io/"]
             ]
         ]
-        [
-            "News",
-            [
-                ["The Register", "https://www.theregister.com/"],
-                ["Ars-Technica", "https://arstechnica.com/"]
-                ["Ars-Technica", "https://arstechnica.com/"]
-            ]
-
-       ]
       }
 
 const Main = (() => {
